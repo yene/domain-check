@@ -9,6 +9,7 @@
 - [ ] take list of domains from pipe as input
 - [ ] check if a path is redirected or rewritten
 - [ ] check if HTTPS certificate expires soon
+- [ ] test if AAAA (ipv6) records are configured
 - [ ] checking the content: handling 500 and 404 and other offline responses
 - [ ] machine readable output
 - [ ] menu bar UI for macOS
