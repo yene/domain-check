@@ -20,3 +20,4 @@ Without `www.` browsers send the cookies to all subdomains. For example if you l
 
 ## Material
 * https://jonathanmh.com/tracing-preventing-http-redirects-golang/
+* https://github.com/timewasted/go-check-certs/blob/master/check-certs.go
